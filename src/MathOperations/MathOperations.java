@@ -1,5 +1,7 @@
-/* Author: Dmitrijs Surigins
-* Assignment: Lesson 2, Level 1
+/*
+* Course: 2019_Winter_Sunday
+* Student: Dmitrijs Surigins
+* Assignment: Lesson 2, Level 1: Арифметические Операции
 * */
 
 package MathOperations;
