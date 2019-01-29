@@ -1,3 +1,7 @@
+/* Author: Dmitrijs Surigins
+* Assignment: Lesson 2, Level 1
+* */
+
 package MathOperations;
 
 public class MathOperations {
