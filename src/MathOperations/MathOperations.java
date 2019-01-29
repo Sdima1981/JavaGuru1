@@ -19,10 +19,7 @@ public class MathOperations {
         System.out.println("Введите второе число ");
         int secondNumber = reader.nextInt();
         reader.close();
-        //System.out.println(n);
 
-        String greeting = "Hello Everybody!!!";
-        String answer = "How you doin...";
         //Integer firstNumber = 10;
         //Integer secondNumber = 20;
         int subtract = (secondNumber - firstNumber);
