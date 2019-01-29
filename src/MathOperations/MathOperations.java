@@ -1,4 +1,4 @@
-package arithmetics;
+package MathOperations;
 
 public class MathOperations {
     public static void main (String[] args) {
