@@ -1,4 +1,4 @@
-package KidsBook;
+package own_study.kids_book;
 
  class Pet {
     int age;

@@ -1,4 +1,4 @@
-package KidsBook;
+package own_study.kids_book;
 
 public class Fish extends Pet {
         public static void main (String [] args){
