@@ -1,4 +1,4 @@
-package RandomGenerator;
+package homework.random_generator;
 
 import java.util.Random;
 import java.util.Scanner;

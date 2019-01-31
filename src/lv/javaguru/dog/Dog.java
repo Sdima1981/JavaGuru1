@@ -1,4 +1,4 @@
-package Dog;
+package lv.javaguru.dog;
 
 public class Dog {
     int age;

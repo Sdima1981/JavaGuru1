@@ -1,4 +1,4 @@
-package Human;
+package lv.javaguru.human;
 
 public class Human {
 

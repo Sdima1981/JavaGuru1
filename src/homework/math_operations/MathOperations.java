@@ -4,7 +4,7 @@
 * Assignment: Lesson 2, Level 1: Арифметические Операции
 * */
 
-package MathOperations;
+package homework.math_operations;
 
 import com.sun.xml.internal.ws.wsdl.writer.document.Import;
 
